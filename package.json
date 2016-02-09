@@ -1,0 +1,28 @@
+{
+  "name": "gtfs-realtime-bindings",
+  "version": "1.0.0",
+  "description": "gtfs-realtime-bindings",
+  "main": "gtfs-realtime.js",
+  "dependencies": {
+    "gtfs-realtime-bindings": "^0.0.4"
+    },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swoodford/gtfs-realtime-bindings.git"
+    },
+  "author": "Shawn Woodford",
+  "licenses": [
+    {
+      "type": "Apache 2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/swoodford/gtfs-realtime-bindings/issues"
+    },
+    "homepage": "https://github.com/swoodford/gtfs-realtime-bindings#readme"
+  }
